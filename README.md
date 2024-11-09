@@ -5,7 +5,19 @@
 - 💞️ I’m looking to collaborate on innovative projects that turn raw data into actionable stories.
 - 📫 Reach me anytime – let’s connect and geek out on all things data on bhumi6117@gmail.com .
 - 😄 Pronouns: She/Her
-- https://i.imgur.com/9jeWzqW.gif
+![Alt text](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
+
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/bhumika-sharma-5a40b4337/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20">
+</a>
+<a href="https://x.com/bhumi6117?t=uldwUCy2JahJSlLVfK1N3w&s=09">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20" height="20">
+</a>
+<a href="https://youtube.com/@bhumisharma-nu2ve?si=K1pI7ThVCrlLLCCC">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="20" height="20">
+</a>
 
   
 
