@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on innovative projects that turn raw data into actionable stories.
 - 📫 Reach me anytime – let’s connect and geek out on all things data on bhumi6117@gmail.com .
 - 😄 Pronouns: She/Her
--  ![Alt text](C:\Users\hp\Downloads\mario2.gif author:bhumii-sharma)
+-  ![Alt text](C:\Users\hp\Downloads\mario2.gif)
 
   
 
