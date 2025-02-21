@@ -1,5 +1,5 @@
 
-- 🌟 Hey there! I'm Bhumika Sharma – Data Enthusiast, Storyteller, and Explorer in the world of Data Science 🚀
+- 🌟 Hey there! I'm Bhumika Sharma – Data Scientist, Storyteller, and Explorer in the world of Data Science 🚀
 - 👀 I’m deeply interested in expanding the horizons of data science, always eager to explore fresh techniques and insights!
 - 🌱 I am currently focused on deploying and documenting machine learning projects, including sales forecasting, customer churn analysis, and stock prediction etc.
 - 💞️ I’m looking to collaborate on innovative projects that turn raw data into actionable stories.
