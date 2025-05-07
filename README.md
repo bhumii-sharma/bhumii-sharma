@@ -15,9 +15,11 @@
 <a href="https://x.com/bhumi6117?t=uldwUCy2JahJSlLVfK1N3w&s=09">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20" height="20">
 </a>
+<!---
 <a href="https://youtube.com/@bhumisharma-nu2ve?si=K1pI7ThVCrlLLCCC">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="20" height="20">
 </a>
+--->
 
 
 ## Languages and Tools
