@@ -1,46 +1,88 @@
 
-- 🌟 Hey there! I'm Bhumika Sharma – Data Scientist, Storyteller, and Explorer in the world of Data Science 🚀
-- 👀 I’m deeply interested in expanding the horizons of data science, always eager to explore fresh techniques and insights!
-- 🌱 I am currently focused on deploying and documenting machine learning projects, including sales forecasting, customer churn analysis, and stock prediction etc.
-- 💞️ I’m looking to collaborate on innovative projects that turn raw data into actionable stories.
-- 📫 Reach me anytime – let’s connect and geek out on all things data on bhumi6117@gmail.com .
+<h1 align="center">👩‍💻 Bhumika Sharma</h1>
+<p align="center">
+  <i>Data Scientist | Storyteller | Explorer in the World of Data 📊✨</i>
+</p>
 
-![Alt text](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
+---
 
-## 🌐 Connect with Me
+### 🌟 Welcome to My GitHub Profile Repo
 
-<a href="https://www.linkedin.com/in/bhumika-sharma-5a40b4337/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20">
-</a>
-<a href="https://x.com/bhumi6117?t=uldwUCy2JahJSlLVfK1N3w&s=09">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20" height="20">
-</a>
-<!---
-<a href="https://youtube.com/@bhumisharma-nu2ve?si=K1pI7ThVCrlLLCCC">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="20" height="20">
-</a>
---->
+Hey there! I'm **Bhumika Sharma**, a Data Scientist who’s passionate about:
+- Turning **raw data** into meaningful insights 📈
+- Building scalable ML pipelines ⚙️
+- Telling **data stories** that resonate with real-world impact 🌍
 
+---
 
-## Languages and Tools
+### 🚀 What I Do
 
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40" alt="Python" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="40" height="40" alt="MySQL" />
-</a>
+- 🔬 **Explore** the frontiers of data science, machine learning, and AI.
+- 🛠️ **Deploy** ML projects like:
+  - 📊 Sales Forecasting
+  - 🔄 Customer Churn Prediction
+  - 📉 Stock Market Modeling
+- 📝 **Document** projects with a focus on clarity, storytelling, and reproducibility.
+- 🤝 **Collaborate** on innovative, data-driven products.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" alt="HTML5" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40" height="40" alt="Git" />
-</a>
+---
 
+### 🧠 My Tech Stack
+
+<p align="left">
+  <!-- Core stack via skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=python,git,sql,vscode,docker" height="40"/>
   
+  <!-- Hugging Face -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face"/>
 
-<!---
-bhumii-sharma/bhumii-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <!-- Jupyter Notebook -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter Notebook"/>
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI"/>
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumii-sharma&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=bhumii-sharma&theme=radical" height="160"/>
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumii-sharma&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+### 💬 Let’s Talk Data
+
+I love geeking out on:
+- Creative problem-solving with ML
+- Automating workflows with Python
+- Sharing learnings with the data community
+
+📬 Reach me at **[bhumi6117@gmail.com](mailto:bhumi6117@gmail.com)**  
+🌐 Portfolio coming soon...
+
+---
+
+### 🧩 Fun Fact
+
+> This README is not just a bio — it's a vibe.  
+> “Code like a scientist, write like a poet, deploy like a boss.”
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="600"/>
+</p>
+
